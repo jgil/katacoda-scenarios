@@ -7,7 +7,6 @@
         "steps": [
             {
                 "title": "Step 1",
-                "code": "start.sh",
                 "text": "step1.md"
             },
             {
@@ -30,6 +29,7 @@
         "uilayout": "terminal-terminal"
     },
     "backend": {
+        "imageid": "kubernetes-cluster",
         "imageid": "kubernetes-cluster"
     }
 }
