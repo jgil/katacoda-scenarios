@@ -43,6 +43,6 @@
         ]
     },
     "backend": {
-        "imageid": ["minikube","minikube"]
+        "imageid": "kubernetes-cluster"
     }
 }
