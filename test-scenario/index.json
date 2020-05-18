@@ -43,9 +43,6 @@
         ]
     },
     "backend": {
-        "imageid": "ubuntu",
-        "imageid": "node",
-        "imageid": "ubuntu",
-        "imageid": "ubuntu"
+        "imageid": "minikube"
     }
 }
