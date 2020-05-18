@@ -43,7 +43,6 @@
         ]
     },
     "backend": {
-        "imageid": "minikube",
-        "imageid": "minikube"
+        "imageid": ["minikube","minikube"]
     }
 }
