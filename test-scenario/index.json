@@ -27,7 +27,16 @@
     },
     "environment": {
         "uilayout": "terminal",
-        "terminals": [{"name": "Terminal 1", "target": "host01"}]
+        "terminals": [
+            {
+                "name": "Terminal 1",
+                "target": "host01"
+            },
+            {
+                "name": "Terminal 2",
+                "target": "host02"
+            }
+        ]
     },
     "backend": {
         "imageid": "kubernetes-cluster",
