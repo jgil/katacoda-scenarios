@@ -43,7 +43,9 @@
         ]
     },
     "backend": {
-        "imageid": "kubernetes-cluster",
-        "imageid": "kubernetes-cluster"
+        "imageid": "ubuntu",
+        "imageid": "ubuntu",
+        "imageid": "ubuntu",
+        "imageid": "ubuntu"
     }
 }
