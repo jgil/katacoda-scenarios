@@ -35,6 +35,10 @@
             {
                 "name": "Terminal 2",
                 "target": "host02"
+            },
+            {
+                "name": "Terminal 3",
+                "target": "host03"
             }
         ]
     },
