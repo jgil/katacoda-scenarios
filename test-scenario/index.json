@@ -26,7 +26,7 @@
         }
     },
     "environment": {
-        "uilayout": "terminal",
+        "uilayout": "terminal-terminal",
         "terminals": [
             {
                 "name": "Terminal 1",
@@ -43,6 +43,7 @@
         ]
     },
     "backend": {
+        "imageid": "minikube",
         "imageid": "minikube"
     }
 }
